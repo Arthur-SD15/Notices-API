@@ -16,12 +16,7 @@
 
 ## :earth_americas: Projeto
 
-No back-end, foram empregados conceitos de manipulação de dados e desenvolvimento de APIs com Flask. O Flask foi escolhido devido à sua capacidade de criar APIs RESTful de forma eficiente, adaptando-se perfeitamente ao processamento e gerenciamento de arquivos JSON.
-
-
-## :rotating_light: Observação
-
-No back-end, foram empregados conceitos de manipulação de dados e desenvolvimento de APIs com Flask. O Flask foi escolhido devido à sua capacidade de criar APIs RESTful de forma eficiente, adaptando-se perfeitamente ao processamento e gerenciamento de arquivos JSON.
+Projeto final prático desenvolvido na disciplina de Linguagem e Técnicas de Programação do Instituto Federal de Mato Grosso do Sul. O projeto explora especialmente os conceitos de Orientação a Objetos, utilizando a linguagem JavaScript.Além disso, foi implementado o consumo de uma API externa pré-existente, com requisições realizadas por meio do objeto XMLHttpRequest. O objetivo é manipular e exibir dinamicamente notícias obtidas da API, destacando conceitos como classes, herança e manipulação do DOM.
 
 
 ## :man: Aluno
