@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+  
+body .centralizado {
+    text-align: center;
+}
+  
+body .noticia {
+    background: #edededd3;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 860px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+  
+body .noticia p {
+    font-size: 14px;
+}
+  
+body .noticia img {
+    width: 100%;
+}
+  
+body .noticia .flex {
+    display: flex;
+    gap: 1em;
+}
+  
+body .noticia a {
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}
+  
+body .noticia a h2 {
+    margin: 0;
+}
